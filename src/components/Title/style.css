@@ -3,7 +3,7 @@
     text-align: center;
     font-size: 3rem;
     text-decoration: underline;
-    color: #2A77AE;
+    color: orange;
     margin-bottom: 50px;
     float: left;
   }
@@ -12,7 +12,7 @@
 .header {
     width: 100%;
     font-size: 2rem;
-    color: #2A77AE;
+    color: orange;
     margin-bottom: 10px;
   }
   
